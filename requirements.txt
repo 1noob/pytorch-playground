@@ -1,0 +1,14 @@
+torch==1.8.1
+torchvision==0.9.1
+opencv_python==4.5.2.52
+pandas~=1.2.4
+tqdm~=4.61.0
+numpy~=1.19.5
+opencv-python~=4.5.2.52
+pillow~=8.2.0
+matplotlib~=3.4.2
+seaborn~=0.11.1
+tensorflow~=2.4.1
+scipy~=1.6.3
+scikit-learn~=0.24.2
+sklearn~=0.0
